@@ -1,0 +1,30 @@
+@page {  }
+
+iframe {
+position: relative;
+margin: auto;
+height: : 100%;
+width: : 100%;
+border:none;
+}
+table { border-collapse:collapse; border-spacing:0; empty-cells:show }
+td, th { vertical-align:top; font-size:12pt;}
+h1, h2, h3, h4, h5, h6 { clear:both;}
+ol, ul { margin:0; padding:0;}
+li { list-style: none; margin:0; padding:0;}
+/* "li span.odfLiEnd" - IE 7 issue*/
+li span. { clear: both; line-height:0; width:0; height:0; margin:0; padding:0; }
+span.footnodeNumber { padding-right:1em; }
+span.annotation_style_by_filter { font-size:95%; font-family:Arial; background-color:#fff000;  margin:0; border:0; padding:0;  }
+* { margin:0;}
+.fr1 { font-size:12pt; font-family:Liberation Serif; vertical-align:top; }
+.fr2 { font-size:12pt; font-family:Liberation Serif; vertical-align:top; }
+.P1 { font-size:14pt; font-family:Times new roman; writing-mode:page; text-align:center ! important; color:#000000; font-style:normal; text-decoration:none ! important; font-weight:normal; background-color:transparent; }
+.P2 { font-size:20pt; font-family:Times new roman; writing-mode:page; text-align:center ! important; color:#000000; font-style:normal; text-decoration:none ! important; font-weight:bold; background-color:transparent; }
+.P3 { font-size:12pt; font-family:Times new roman; writing-mode:page; text-align:center ! important; }
+.P4 { font-size:12pt; font-family:Times new roman; writing-mode:page; text-align:center ! important; }
+.P5 { font-size:12pt; font-family:Times new roman; writing-mode:page; }
+.T13 { color:#000000; text-decoration:none ! important; font-weight:normal; background-color:transparent; }
+.T14 { color:#000000; font-style:normal; text-decoration:none ! important; font-weight:normal; background-color:transparent; }
+.T15 { color:#000000; font-style:normal; text-decoration:none ! important; font-weight:bold; background-color:transparent; }
+.T16 { color:#000000; font-size:18pt; font-style:normal; text-decoration:none ! important; font-weight:normal; background-color:transparent; }
